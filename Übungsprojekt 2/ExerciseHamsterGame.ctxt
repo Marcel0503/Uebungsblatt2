@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ExerciseHamsterGame
+comment0.text=\r\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ MyFirstSimpleHamster.\r\n\ \r\n\ @author\ Jan\ Waidleich\ und\ Marcel\ Grote\r\n\ @version\ 07.11.2018\r\n\ \r\n
+comment1.params=
+comment1.target=ExerciseHamsterGame()
+comment2.params=
+comment2.target=de.unistuttgart.iste.rss.oo.hamstersimulator.external.model.Hamster\ getHamster()
+comment2.text=\r\n\ spawning\ a\ Hamster\r\n
+comment3.params=
+comment3.target=de.unistuttgart.iste.rss.oo.hamstersimulator.external.model.Hamster\ turnRight()
+comment3.text=\r\n\ Paule\ turns\ right\r\n
+comment4.params=
+comment4.target=de.unistuttgart.iste.rss.oo.hamstersimulator.external.model.Hamster\ pickUpAllGrain()
+comment4.text=\r\n\ Paule\ picks\ up\ all\ grain\ on\ the\ tile\ he\ is\ standing\ on\r\n
+comment5.params=
+comment5.target=de.unistuttgart.iste.rss.oo.hamstersimulator.external.model.Hamster\ droppAllGrain()
+comment5.text=\r\n\ Paule\ ejects\ all\ grain\ on\ the\ tile\ he\ is\ standing\ on\r\n
+numComments=6
